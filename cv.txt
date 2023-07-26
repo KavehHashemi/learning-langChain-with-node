@@ -1,0 +1,48 @@
+Kaveh Hashemi
+Frontend Developer
+React . TypeScript
+Tehran . Iran . +989376318905
+kavehhashemi@outlook.com - linkedin.com/in/kavehhashemi - github.com/kavehhashemi
+Summary 
+Passionate and adaptable frontend developer with expertise in ReactJs and TypeScript, and a strong drive to learn new technologies. Skilled in UI development, problem-solving, and a passion for tackling challenges in web development projects. Experienced in collaborating with teams and delivering impactful solutions.
+Work Experience
+FEB 2023 – PRESENT, FRONTEND DEVELOPER, PERSONAL PROJECTS 
+* Developing a flashcard web-app using React, TypeScript, Auth0, GraphQl and MongoDB (MARN stack) providing a simple, straightforward tool for language learners. (ongoing)
+* Developing A React website using Metropolitan Museum of art's public API, TypeScript, Redux, and MUI, providing a simpler, less cluttered interface for the users (ongoing)
+* Collaborating on a news web-app aimed at bypassing government’s internet restrictions (ongoing) using Chromium’s built-in notification capabilities to deliver the news to users.
+NOV 2018 – PRESENT, FRONTEND DEVELOPER, GOSTAREH NEGAR COMPANY
+* Designed and developed a whistleblowing webform using Microsoft CRM portal for Iranian Social Security Organization’s website, improving organization accountability to millions of users.
+* Mentored an intern in basic web development skills e.g., HTML, CSS, WordPress, UI design.
+* Developed a React client in TypeScript for FullCalendar using IndexedDB, enabling offline functionality.
+* Created a React client for NATS messaging system using React, TypeScript, Redux and MUI, enhancing real-time communication.
+* Developed a web-app for scheduling furnaces in a steel company using ReactJS, node.js and FullCalendar, improving resource management. 
+* Developed UI for a web-app backed by Microsoft CRM dynamics using server side Blazor (C#), streamlining business processes. 
+* Developed UI for the main product of the company using HTML, CSS, and Bootstrap, enhancing its visual appeal and usability.
+* Developed UI for a call center web-app using ReactJs, resulting in improved user experience and increased efficiency. 
+
+OCT 2016 - JUL 2018, WEB DEVELOPER, FREELANCE (during conscription)
+* Successfully developed half a dozen websites using WordPress and Visual Composer for individual clients, meeting their specific requirements and delivering quality results.
+AUG 2016 - OCT 2016, WEB DEVELOPER, ARPA SOFTWARE COMPANY
+* Developed the company website using WordPress and Visual Composer, ensuring a professional online presence.
+* Studied user requirements, collaborated with the project manager and development team to brainstorm innovative ideas, and contributed to effective project planning.
+AUG 2015 - MAY 2016, UX/UI DESIGNER, ARMANGARAYAN TECHNOLOGY DEVELOPEMENT COMPANY
+* Created wireframes for various user interactions within applications, ensuring intuitive and user-friendly experiences.
+* Designed polished user interfaces, translating project requirements and business objectives into visually appealing designs.
+* Collaborated with teammates to deliver valuable features, meeting business and customer needs.
+* Conducted live user testing to evaluate the effectiveness of designs and implemented enhancements for improved user satisfaction.
+Skills
+Programming Languages: 
+ReactJs, TypeScript, JavaScript, C# (Blazor)
+
+Web Technologies: 
+HTML, CSS, Sass, Tailwind, Bootstrap, REST API, GraphQl, MongoDB, IndexedDB, Node.js, Express, Telegram Bots
+
+Tools: 
+Redux, MUI, MudBlazor, Git, Microsoft Visio, Adobe Photoshop, Bootstrap Studio
+
+Soft Skills: 
+Problem solver, Collaborative team player, Strong analytical abilities
+Languages
+English - Full Professional Proficiency
+Persian - Native Speaker
+German – Beginner (Learning)
